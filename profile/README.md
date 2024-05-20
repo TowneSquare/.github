@@ -1,6 +1,6 @@
 # **TowneSquare**
 
-Web3 Social Media built on Aptos.
+Web3 Social Media built on Solana & Aptos.
 
 ## Links
 - [Website](https://www.townesquare.xyz/)
