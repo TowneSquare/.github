@@ -1,10 +1,9 @@
 # **TowneSquare**
 
-Web 3 consumer facing DApp & infra.
+Web 3 lending markets for leveraged yield, powered with crosschain lending and borrowing, on Monad.
 
 ## Links
-- [Website](https://www.townesquare.xyz/)
-- [Docs](https://docs.townesquare.xyz/townesquare-whitepaper/)
+- [Website](https://www.townsq.xyz/)
+- [Docs](https://docs.townsq.xyz/)
 - [LinkedIn](https://www.linkedin.com/company/townesquare/)
-- [Twitter](https://twitter.com/townesquarexyz)
-- [Logo Figma](https://www.figma.com/design/a891of2uUXd2yAJeGxSaMM/eTown-Labs-Logos-(external)?node-id=29-2&t=zUmSWBz9Uxwg2gBQ-1)
+- [Twitter](https://twitter.com/townsquarexyz)
